@@ -18,7 +18,8 @@ This repository contains the Arduino code and project files for my **Tamiya TT-0
 
 ## 📜 Documentation
 Full build log, wiring details, and explanation are available on my blog:  
-👉 [My DIY Robotics Blog](https://gjaybellgmailcom-njupd.wordpress.com/)
+👉 [My DIY Robotics Blog](https://gjaybell3.com)
+)
 
 ## 📝 Notes
 - This is a personal hobby project for fun (not commercial).  
